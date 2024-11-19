@@ -26,8 +26,8 @@ This project is a web application built using **Next.js** that provides a search
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/chicago-energy-usage.git
-   cd chicago-energy-usage
+   https://github.com/sachin3104/Chicago-Building-Energy-Usage.git
+   cd Chicago-Building-Energy-Usage
    ```
 2. **Install Dependencies**:
    ```bash
