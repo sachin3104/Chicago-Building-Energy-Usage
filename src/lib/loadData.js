@@ -8,7 +8,8 @@ let buildingsData = [];
 export function loadBuildingsData() {
   const jsonFilePath = path.join(
     process.cwd(),
-    "public",
+    "src",
+    "data",
     "chicago_energy.json"
   );
 
