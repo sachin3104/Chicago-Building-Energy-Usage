@@ -1,6 +1,6 @@
 # Chicago Building Energy Usage
 
-This project is a web application built using **Next.js** that provides a searchable and interactive **dashboard** for visualizing the 2010 energy usage data of Chicago buildings. Users can search, filter, and view details about buildings, including electricity (kWh) and gas (therms) usage over time.
+This project is a web application built using **Next.js** that provides a searchable and interactive **dashboard** for visualizing the 2010 energy usage data of Chicago buildings. Users can search, filter, and view details about buildings, including electricity (kWh) and gas (therms) usage over time. 
 
 ## Features
 
